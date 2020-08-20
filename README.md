@@ -24,3 +24,6 @@ Html
 -source virtual/bin/activate
 -python3.6 -m pip install -r requirements.txt (install all dependencies)
 -python3 run.py
+
+## Known Bugs
+Profile picture functionality has a problem
