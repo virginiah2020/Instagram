@@ -11,3 +11,8 @@ An instagram-clone that one can search and also post,Comment and like other user
 -Sign up in order to view images
 -Displays images 
 -One can be able to post,comment,Like
+
+## Technology Used
+Python3.6
+Django
+Html
