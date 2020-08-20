@@ -16,3 +16,7 @@ An instagram-clone that one can search and also post,Comment and like other user
 Python3.6
 Django
 Html
+
+## Setup
+-Git clone https://github.com/virginiah2020/instagram
+-cd to your computer
