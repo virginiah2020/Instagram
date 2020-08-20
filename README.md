@@ -27,3 +27,5 @@ Html
 
 ## Known Bugs
 Profile picture functionality has a problem
+
+## LIncense
