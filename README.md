@@ -21,3 +21,4 @@ Html
 -Git clone https://github.com/virginiah2020/instagram
 -cd to your computer
 -python3.6 -m venv virtual (install virtual environment)
+-source virtual/bin/activate
