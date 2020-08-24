@@ -1,17 +1,15 @@
-from django.urls import path, include
-from . views import *
+from django.conf.urls import url
 from . import views
 
+
 urlpatterns = [
-    path('signup/', views.signup, name='signup'),
-    path('account/', include('django.contrib.auth.urls')),
-    path('', views.index, name='index'),
-    path('profile/<username>/', views.profile, name='profile'),
-    path('user_profile/<username>/', views.user_profile, name='user_profile'),
-    path('post/<id>', views.post_comment, name='comment'),
-    path('post/<id>/like', PostLikeToggle.as_view(), name='liked'),
-    path('api/post/<id>/like', PostLikeAPIToggle.as_view(), name='liked-api'),
-    path('like', views.like_post, name='like_post'),
-    path('search/', views.search_profile, name='search'),
-   
+    url(r'^$',views.home,name='home'),
+    url(r'^newprofile/',views.profile,name ='profile'),
+    url(r'^showprofile/(?P<id>\d+)',views.display_profile,name = 'showprofile'),
+    url(r'^image/$', views.add_image, name='upload_image'),
+    url(r'^ search/',views.search, name='search'),
+    url(r'^comment/(?P<image_id>\d+)', views.comment, name='comment'),
+    url(r'^like/(?P<image_id>\d+)', views.like, name='like'),
+    url(r'^follow/(?P<user_id>\d+)', views.follow, name='follow'),
+
 ]

@@ -1,34 +1,66 @@
-# INSTAGRAM
+# INSTAGRAM CLONE
 
-## Author
-## By Virginiah Wamuyu
+## By BrysonMundia (https://github.com/Bryson69)😎 
+
+## Live Site [Instagram Clone](https://instaclone345.herokuapp.com/) 
+
+
 
 ## Description
 
-An instagram-clone that one can search and also post,Comment and like other users post..just like Instagram
+A web application whereby you can view instagram posts.
 
-## BDD/Specification
--Sign up in order to view images
--Displays images 
--One can be able to post,comment,Like
+## User Stories
 
-## Technology Used
-Python3.6
-Django
-Html
+* Sign in to the application to start using.
+* Upload my pictures to the application.
+* See my profile with all my pictures.
 
-## Setup
--Git clone https://github.com/virginiah2020/instagram
--cd to your computer
--python3.6 -m venv virtual (install virtual environment)
--source virtual/bin/activate
--python3.6 -m pip install -r requirements.txt (install all dependencies)
--python3 run.py
+
+## Specifications
+
+| Behaviour | Input | Output |
+| --------------- | :----------:| --------: |
+|Display Various Blogs  | N/A | Various instagram Posts  |
+
+
+## Prerequisites
+* Python3.6
+## Setup/Installation Requirements
+* internet access
+* $ git clone https://github.com/Bryson69/Instagram-Clone
+* $ cd blog-app
+* $ python3.6 -m venv virtual (install virtual environment)
+* $ source virtual/bin/activate
+* $ python3.6 -m pip install -r requirements.txt (install all dependencies)
+* $ python3 run.py
+
+# How it works
+> User needs to sign up.
+> A User the needs to sign in to the instagram account and post
+
+# CREDITS
+##### Google.com ⭐️ StackOverflow.com ⭐️ & :star:.
+
+# Support and Contacts
+In case You have any issues using this code please do no hesitate to get in touch with me through brysonmundia@gmail.com or leave a comment here on Github.
 
 ## Known Bugs
-Profile picture functionality has a problem
+Change the user login does not function properly.
 
-## LIncense
+## Technologies Used
+- Python3.6
+- Django framework
+- Bootstrap
+- PostgreSQL
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="#" target="_blank">Virginiah Wamuyu</a>.
+## :computer: Installation
+Get the real application on snapstore.
+Available for Windows, macOS, and Linux.
+
+> For linux users. You can directly install it from SnapStore.
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://github.com/Bryson69/Instagram-Clone)
+
+### License
+**[MIT](./LICENSE)** (c) 2020 **[Bryson Mundia]()**
