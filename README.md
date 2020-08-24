@@ -1,8 +1,8 @@
-# INSTAGRAM CLONE
+# INSTAGRAM 
 
-## By BrysonMundia (https://github.com/Bryson69)😎 
+## By Virginiah Wamuyu
 
-## Live Site [Instagram Clone](https://instaclone345.herokuapp.com/) 
+## Live Site [Instagram Clone](https://vy-instagram.herokuapp.com/) 
 
 
 
@@ -28,7 +28,7 @@ A web application whereby you can view instagram posts.
 * Python3.6
 ## Setup/Installation Requirements
 * internet access
-* $ git clone https://github.com/Bryson69/Instagram-Clone
+* $ git clone https://github.com/virginiah2020/Gram
 * $ cd blog-app
 * $ python3.6 -m venv virtual (install virtual environment)
 * $ source virtual/bin/activate
@@ -42,12 +42,9 @@ A web application whereby you can view instagram posts.
 # CREDITS
 ##### Google.com ⭐️ StackOverflow.com ⭐️ & :star:.
 
-# Support and Contacts
-In case You have any issues using this code please do no hesitate to get in touch with me through brysonmundia@gmail.com or leave a comment here on Github.
 
 ## Known Bugs
-Change the user login does not function properly.
-
+no bugs
 ## Technologies Used
 - Python3.6
 - Django framework
@@ -59,8 +56,5 @@ Get the real application on snapstore.
 Available for Windows, macOS, and Linux.
 
 > For linux users. You can directly install it from SnapStore.
-
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://github.com/Bryson69/Instagram-Clone)
-
 ### License
-**[MIT](./LICENSE)** (c) 2020 **[Bryson Mundia]()**
+**[MIT](./LICENSE)** (c) 2020 **[Virginiah Wamuyu]()**
